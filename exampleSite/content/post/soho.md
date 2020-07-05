@@ -1,12 +1,10 @@
 +++
-title = "Soho Theme"
-date = "2020-05-01"
+date = 2020-05-01T00:00:00Z
 description = "About Soho Theme."
-tags = [
-    "theme",
-]
-+++
+tags = ["theme"]
+title = "Soho Theme(test 1)"
 
++++
 [Soho](https://github.com/alexandrevicenzi/soho) is a minimalist two-column [hugo](https://gohugo.io) theme based on [Hyde](https://github.com/spf13/hyde) and inspired by the success of [Flex](https://github.com/alexandrevicenzi/Flex).
 
 ## Features
